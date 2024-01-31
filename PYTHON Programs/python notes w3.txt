@@ -1,0 +1,17 @@
+python created - Guido van Rossum in 1991
+interpreter system means rototyping is very quick
+IDE - integrated development environment . e.g -Thonny,pycharm,netbeans,eclipse
+Python uses new lines to complete a command, as opposed to other programming languages
+ which often use semicolons or parentheses.
+Python relies on indentation, using whitespace, to define scope; such as the scope of loops,
+ functions and classes. Other programming languages often use curly-brackets for this purpose.
+Python does not really have a syntax for multi line comments.
+Or, not quite as intended, you can use a multiline string.
+
+Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it:
+frozenset
+Import the random module, and display a random number between 1 and 9:
+
+import random
+
+print(random.randrange(1, 10))
